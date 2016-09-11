@@ -1,0 +1,67 @@
+h1,h2,h3,h4 {font-family: "Century Gothic";
+    color: #A4A400;
+    background-color:#F0F0F0;
+    letter-spacing:6px}
+
+h1, h2 {text-align: center;
+    font-weight: bold}
+
+
+body {margin-top: 90px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
+    font-family: "Georgia";
+    background-image: url("blu.jpg");
+    background-attachment: fixed}
+
+
+#ind {width: 250px;
+      height: 250px;
+      margin-left:50px;
+      margin-right:90px;
+      margin-top:45px}
+
+#band {width: 250px;
+      height: 250px}
+
+
+#chef {width: 250px;
+       height:250px;
+       margin-right:90px}
+
+
+ul#nav {
+  margin: 0 auto;
+  margin-top:30px;
+  list-style:none;
+  width:525px}
+
+ul#nav li {
+  display:inline}
+
+ul#nav li a {
+ text-decoration:none;
+ padding:5px 0;
+ width:150px;
+ background:#A4A400;
+ color:#eee;
+ float:left;
+ text-align:center;
+ border-left:1px solid #fff}
+
+th {background-color:#F0F0F0;
+    color: #A4A400;}
+
+table, td {
+  border: 1px solid #FFFFFF;
+  color: #FFFFFF}
+
+
+.red {color:red}
+
+.blue {background-color: #003366}
+
+.orange {background-color: #CC9933}
+
+.bold {font-weight: bold}
